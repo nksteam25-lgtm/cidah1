@@ -1,0 +1,19 @@
+# אף פעם לא לדחוף לגיט
+.env
+.env.*
+credentials/
+logs/
+*.json
+!package.json
+workspaces_created.json
+
+# Python artifacts
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.bak*
+
+# macOS
+.DS_Store
+venv/
