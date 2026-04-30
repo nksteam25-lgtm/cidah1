@@ -1,7 +1,18 @@
 {
   "version": "1.0",
   "schema": "cidah-broadcasts-v1",
-  "active": [],
+  "active": [
+    {
+      "id": "bcast-1777508460000",
+      "severity": "s2",
+      "text": "מערכת broadcast חיה · 9 שותפים · GitHub feed · v1.2.3 ready",
+      "sender": "GN",
+      "ts": 1777508460000,
+      "ts_human": "30.04 · 03:21",
+      "expires_at": 1777594860000,
+      "target": "all"
+    }
+  ],
   "archived": [
     {
       "id": "bcast-1777507939000",
