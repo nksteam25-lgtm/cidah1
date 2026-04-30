@@ -1,17 +1,6 @@
 {
   "version": "1.0",
   "schema": "cidah-broadcasts-v1",
-  "active": [
-    {
-      "id": "bcast-test-1777507589000",
-      "severity": "s1",
-      "text": "🔥 בדיקת מערכת broadcast חיה · 9 שותפים יראו ב-session הבא · 30.04 · 03:06",
-      "sender": "GN",
-      "ts": 1777507589000,
-      "ts_human": "30.04 · 03:06",
-      "expires_at": 1777593989000,
-      "target": "all"
-    }
-  ],
+  "active": [],
   "archived": []
 }
