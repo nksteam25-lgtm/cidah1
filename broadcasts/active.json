@@ -3,13 +3,13 @@
   "schema": "cidah-broadcasts-v1",
   "active": [
     {
-      "id": "bcast-test-1777507396000",
+      "id": "bcast-test-1777507589000",
       "severity": "s1",
-      "text": "בדיקת מערכת broadcast · 9 שותפים יראו את זה ב-session הבא · 30.04 · 03:03",
+      "text": "🔥 בדיקת מערכת broadcast חיה · 9 שותפים יראו ב-session הבא · 30.04 · 03:06",
       "sender": "GN",
-      "ts": 1777507396000,
-      "ts_human": "30.04 · 03:03",
-      "expires_at": 1777593796000,
+      "ts": 1777507589000,
+      "ts_human": "30.04 · 03:06",
+      "expires_at": 1777593989000,
       "target": "all"
     }
   ],
