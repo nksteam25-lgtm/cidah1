@@ -1,6 +1,17 @@
 {
   "version": "1.0",
   "schema": "cidah-broadcasts-v1",
-  "active": [],
+  "active": [
+    {
+      "id": "bcast-1777507939000",
+      "severity": "s2",
+      "text": "✅ Broadcast system חי · 9 שותפים מתעדכנים אוטומטית · cache 5min",
+      "sender": "GN",
+      "ts": 1777507939000,
+      "ts_human": "30.04 · 03:12",
+      "expires_at": 1777594339000,
+      "target": "all"
+    }
+  ],
   "archived": []
 }
